@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620241007 source:d:\programming\c\guessing game\randomizea.s
+
+1619872409 source:d:\programming\c\guessing game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1619865914 source:d:\programming\c\guessing game\comparea.s
+
